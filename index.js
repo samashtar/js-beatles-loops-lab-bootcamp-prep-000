@@ -18,3 +18,8 @@ function johnLennonFacts(array) {
   }
    return array;
 }
+
+function iLoveTheBeats(number) {
+  var array = [];
+  
+}
