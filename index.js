@@ -20,11 +20,11 @@ function johnLennonFacts(array) {
 }
 
 function iLoveTheBeats(number) {
-  var array = [];
+  var love = [];
   do {
-+        love.push("I love the Beatles!");
-+        num++;
-+    } while (num < 15);
-+    
-+    return love;
+        love.push("I love the Beatles!");
+        num++;
+    } while (num < 15);
+   
+    return love;
 }
